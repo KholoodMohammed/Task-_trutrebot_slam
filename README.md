@@ -18,7 +18,7 @@ Choose the appropriate version and these are the steps of the  _noetic_ version
 
 
 
-1. _Open the terminal and enter below commands one at a time _
+Open the terminal and enter below commands one at a time _
 
        $ sudo apt update
        $ sudo apt upgrade
