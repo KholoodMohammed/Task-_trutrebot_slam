@@ -76,7 +76,7 @@ _new gazebo open_
        
  **Note:**There are many models that can be used, including the waffle model
  
-       $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
+        $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
        
  **Note:** to control the robot in a gazebo we use the above commands 
 
